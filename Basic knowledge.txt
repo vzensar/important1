@@ -1,0 +1,41 @@
+What is metadata?
+In simple terms, metadata is “data/information about data". Metadata helps us understand the structure, nature, and context of the data.
+Metadata facilitates easy search and retrieval of data. Metadata also helps keep a check on the quality and reliability of data. Metadata is the key to unlocking the value of your data.  
+
+=======================================================================================================================================
+In a machine learning model, there are 2 types of parameters:
+
+Model Parameters: These are the parameters in the model that must be determined using the training data set. These are the fitted parameters.
+Hyperparameters: These are adjustable parameters that must be tuned in order to obtain a model with optimal performance.
+
+============================================================================================================================================
+For creating models in machine learning there are the 7 major steps 
+
+Defining The Problem 
+Data Collection 
+Preparing The Data 
+Assigning Appropriate Model / Protocols 
+Training The Machine Model Or “The Model Training” 
+Evaluating And Defining Measure of Success 
+Parameter Tuning 
+============================================================================================================================================
+professional web development projects always use an existing web framework like
+Flask, 
+FastAPI, 
+Django, 
+Pyramid.
+
+MLOps:
+MLFlow
+Google Kubeflow
+TensorFlow Lite & TensorFlow Extended
+Azure Machine Learning
+AWS SageMaker
+===========================================================================================================================================
+Machine Learning Model Validation Techniques. 
+
+Holdout-out Validation Method 
+K-fold Cross-Validation Method 
+Leave-One-Out Cross-Validation Method 
+Random Subsampling Validation Method 
+Bootstrapping ML Validation Method 
